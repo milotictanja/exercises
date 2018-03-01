@@ -6,4 +6,3 @@ this file contains some top secret information about myself...
 
 change 1
 
-change2

@@ -8,7 +8,4 @@
 
 #step 4
 
-
-jaja
-neenee
 #step 5
